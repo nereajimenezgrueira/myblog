@@ -18,10 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Blog de Nerea
+title: Apuntes de IAW
+author: Nerea Jimenez
 email: njimenezg02@educantabria.es
 description: >- # this means to ignore newlines until "baseurl:"
-  Sitio Jekyll de Implantación de Aplicaciones Web.
+  Blog de prácticas del módulo Implantación de Aplicaciones Web:
+  servidores web, contenedores y despliegue.
+lang: es
+timezone: Europe/Madrid
 baseurl: "/myblog" # the subpath of your site, e.g. /blog
 url: "https://nereajimenezgrueira.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
